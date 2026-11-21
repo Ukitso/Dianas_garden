@@ -1,3 +1,3 @@
 [Brand Base](https://brand-base.com/)
 
-#BrandIdentity, #GraphicDesign, #ArtDirection
+#BrandIdentity, #GraphicDesign, #ArtDirection, #CreativeStudio 

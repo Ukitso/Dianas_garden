@@ -1,3 +1,3 @@
 **[Gydient](https://gydient.com/)
 
-#GraphicDesign, #Typography, #ExperimentalDesign, #ArtDirection
+#GraphicDesign, #Typography, #ExperimentalDesign, #ArtDirection, #CreativeStudio 

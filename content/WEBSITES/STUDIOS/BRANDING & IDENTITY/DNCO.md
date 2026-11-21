@@ -1,2 +1,2 @@
  [DNCO](https://dnco.com/)
- #Placebranding, #culturalidentities, #wayfinding and #environmentaldesign.
+  #CreativeStudio, #Placebranding, #culturalidentities, #wayfinding and #environmentaldesign.

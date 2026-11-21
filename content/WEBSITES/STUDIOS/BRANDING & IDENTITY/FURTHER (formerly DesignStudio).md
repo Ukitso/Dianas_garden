@@ -1,2 +1,2 @@
 [Further](https://www.further.group/)
-#BrandStrategy #BrandIdentity #ArtDirection #DigitalDesign
+#BrandStrategy #BrandIdentity #ArtDirection #DigitalDesign , #CreativeStudio 

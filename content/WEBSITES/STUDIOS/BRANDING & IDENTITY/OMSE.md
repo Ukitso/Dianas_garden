@@ -1,3 +1,3 @@
 [OMSE](https://www.omse.co/)
 
-#BrandIdentity, #GraphicDesign, #ArtDirection
+#BrandIdentity, #GraphicDesign, #ArtDirection, #CreativeStudio 

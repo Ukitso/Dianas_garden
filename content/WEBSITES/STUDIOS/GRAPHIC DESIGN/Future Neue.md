@@ -1,3 +1,3 @@
 [Future Neue](https://www.futurneue.cc/)
 
-#GraphicDesign, #VisualCulture, #ArtDirection
+#GraphicDesign, #VisualCulture, #ArtDirection, #CreativeStudio 
