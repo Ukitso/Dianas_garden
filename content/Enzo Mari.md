@@ -1,3 +1,4 @@
+
 'DESIGN IS DEAD'
 
 Italian designer known for being quite anti-consumerist and very principled about design.

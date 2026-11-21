@@ -1,3 +1,4 @@
+
 [[Aphantasia]] [[Bauhaus]] [[Renaissance man]]
 I don’t create visually  
 so I create through everything else
