@@ -1,3 +1,81 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+/* Load Violet Sans */
+@font-face {
+  font-family: "Violet Sans";
+  src: url("/static/fonts/VioletSans-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Global typography */
+html,
+body,
+button,
+input,
+textarea,
+select {
+  font-family: "Violet Sans", sans-serif !important;
+  font-weight: 400;
+}
+
+/* All headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.page-title {
+  font-family: "Violet Sans", sans-serif !important;
+  font-weight: 400 !important;
+}
+
+/* Explorer and navigation */
+.explorer,
+.explorer *,
+.page-header,
+.page-header *,
+.breadcrumb-container {
+  font-family: "Violet Sans", sans-serif !important;
+  font-weight: 400;
+}
+
+/* Main content */
+article,
+article p,
+article li,
+article a {
+  font-family: "Violet Sans", sans-serif !important;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+/* Heading sizes */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 20px;
+}
+
+/* Code */
+code,
+pre {
+  font-family: "IBM Plex Mono", monospace !important;
+}
+
+/* Explorer typography */
+
+/* Folder names */
+.explorer .folder-title {
+  font-size: 20px !important;
+}
+
+/* Hide Explorer heading and dropdown */
+.explorer .title-button {
+  display: none !important;
+}
