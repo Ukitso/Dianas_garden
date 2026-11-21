@@ -8,7 +8,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-GB
-  baseUrl: ukitso.github.io/Dianas_garden
+  baseUrl: oko.dianajablonskaite.xyz
   ignorePatterns:
     - private
     - templates
