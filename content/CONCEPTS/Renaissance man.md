@@ -1,3 +1,9 @@
+---
+publish: true
+created: 2026-11-21T15:15:29.432Z
+modified: 2026-11-21T16:37:06.899Z
+---
+
 [[Bauhaus]] [['Creativity']]
 
 A **Renaissance man** is someone who is skilled across lots of different areas, not just one. The idea comes from the Renaissance period, where people believed humans should develop **a wide range of abilities**.
@@ -27,4 +33,3 @@ Instead of being _just_ a designer, or _just_ a scientist, you explore multiple 
 ### In one line
 
 > A Renaissance man is someone who builds creativity by connecting different disciplines, not staying in one lane.
-> 

@@ -1,4 +1,9 @@
+---
+publish: true
+created: 2026-11-21T15:15:29.428Z
+modified: 2026-11-21T16:37:03.915Z
+---
+
 [[Aphantasia]] [['Creativity']]
 
 A creative block is a temporary, frustrating inability to access your imagination or produce creative work, often caused by self-doubt, pressure, or burnout. To overcome it, shift your environment, take a walk, try a different medium, or rest. Accept that creativity fluctuates; avoid self-blame to let the block pass.
-
