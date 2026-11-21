@@ -24,3 +24,7 @@ NOT [[Bauhaus]] but related in mindset
 
 
 reminds me of [[Accessibility in design]] strong connection as its designed human first, with tha human condition in mind
+
+#IndustrialDesign, #Sustainability, #DesignEducation
+
+
