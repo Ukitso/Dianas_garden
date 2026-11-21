@@ -4,9 +4,10 @@
 - [[Typo Cabinet]]
 - [[Cihan Tamti]]
 - [[Gydent]]
-- [[Studios/Graphic Design/L2M3]]
+- [[L2M3]]
 - [[MuirMcNeil]]
 - [[Dixon Baxi]]
+- [[Bibliothèque]]
 
 
 
