@@ -2,6 +2,6 @@
 
 #Advertising, #CreativeCampaigns, #BrandStorytelling
 
-Related: [[Topics/Advertising]], [[Branding]]
+Related: [[Advertising]], [[Branding]]
 
 

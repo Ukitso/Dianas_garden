@@ -2,6 +2,6 @@
 
 #GraphicDesign, #VisualIdentity, #BrandIdentity
 
-Related: [[Topics/Graphic Design]], [[Branding]]
+Related: [[Graphic Design]], [[Branding]]
 
 

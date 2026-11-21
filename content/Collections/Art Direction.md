@@ -4,12 +4,12 @@ Art direction shapes how an idea becomes a coherent visual world. This hub conne
 
 ## Studios
 
-- [[Studios/Advertising/Lucky Generals]]
-- [[Studios/Advertising/Mother London]]
-- [[Studios/Branding & Identity/Brand Base]]
-- [[Studios/Branding & Identity/OMSE]]
-- [[Studios/Graphic Design/Gydent]]
-- [[Studios/Independent Creatives/Stephanie Specht]]
+- [[Lucky Generals]]
+- [[Mother London]]
+- [[Brand Base]]
+- [[OMSE]]
+- [[Gydent]]
+- [[Stephanie Specht]]
 
 Related: [[Branding]], [[Graphic Design]], [[Advertising]]
 

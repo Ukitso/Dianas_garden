@@ -2,6 +2,6 @@
 
 #BrandIdentity, #GraphicDesign, #Packaging, #Illustration
 
-Related: [[Branding]], [[Topics/Graphic Design]]
+Related: [[Branding]], [[Graphic Design]]
 
 

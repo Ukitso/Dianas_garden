@@ -2,5 +2,5 @@
 
 #Advertising, #VisualCulture, #Illustration
 
-Related: [[Topics/Advertising]]
+Related: [[Advertising]]
 

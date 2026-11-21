@@ -2,12 +2,11 @@
 title: Collections
 ---
 
-- [[Collections/Competitions]]
-- [[Collections/Digital Gardens]]
+- [[Competitions]]
+- [[Digital Gardens]]
 - [[Fun websites]]
-- [[Collections/Music]]
+- [[Music]]
 - [[Portfolio]]
-- [[Collections/Tools]]
-- [[Collections/Type foundries]]
+- [[Tools]]
 - [[Collections/UX UI]]
 - [[Collections/Websites]]

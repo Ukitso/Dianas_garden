@@ -2,6 +2,6 @@
 
 #Illustration, #CharacterDesign, #ImageMaking, #VisualStorytelling
 
-Related: [[Topics/Graphic Design]]
+Related: [[Graphic Design]]
 
 

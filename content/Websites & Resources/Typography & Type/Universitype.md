@@ -2,4 +2,6 @@
 
 #Typography, #TypeDesign
 
+Funky fonts, kinda camp
+
 Related: [[Typography]]

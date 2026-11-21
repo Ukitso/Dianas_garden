@@ -2,21 +2,21 @@
 
 ## Studios
 
-- [[Studios/Branding & Identity/Brand Base]]
-- [[Studios/Branding & Identity/DNCO]]
-- [[Studios/Branding & Identity/Dixon Baxi]]
-- [[Studios/Branding & Identity/FURTHER (formerly DesignStudio)]]
-- [[Studios/Branding & Identity/OMSE]]
-- [[Studios/Branding & Identity/The Chase]]
-- [[Studios/Branding & Identity/Wolff Olins]]
+- [[Brand Base]]
+- [[DNCO]]
+- [[Dixon Baxi]]
+- [[FURTHER (formerly DesignStudio)]]
+- [[OMSE]]
+- [[The Chase]]
+- [[Wolff Olins]]
 
 
 
 ## References
 
-- [[Websites & Resources/Branding & Identity/The Brand Identity]]
-- [[Websites & Resources/Branding & Identity/World Brand Design]]
-- [[Websites & Resources/Design Inspiration/The Index]]
+- [[The Brand Identity]]
+- [[World Brand Design]]
+- [[The Index]]
 - [[Portfolio]]
 
 Related: [[Graphic Design]], [[Art Direction]], [[Advertising]]

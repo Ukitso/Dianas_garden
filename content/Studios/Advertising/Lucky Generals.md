@@ -2,6 +2,6 @@
 
 #Advertising, #CreativeCampaigns, #ArtDirection
 
-Related: [[Topics/Advertising]], [[Topics/Art Direction]]
+Related: [[Advertising]], [[Art Direction]]
 
 

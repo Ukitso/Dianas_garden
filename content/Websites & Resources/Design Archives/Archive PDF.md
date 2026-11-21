@@ -2,5 +2,5 @@
 
 #GraphicDesign, #VisualResearch
 
-Related: [[Topics/Graphic Design]]
+Related: [[Graphic Design]]
 

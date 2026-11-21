@@ -1,7 +1,8 @@
 
-- [[Websites & Resources/Design Inspiration/Creative Conscience]]
-- [[Websites & Resources/Design Inspiration/D&AD]]
-- [[Websites & Resources/Design Inspiration/Young Shits]]
+- [[Creative Conscience]]
+- [[D&AD]]
+- [[Young Shits]]
+- [[It's Nice That]] (ones to watch)
 
 #GraphicDesign, #Advertising
 

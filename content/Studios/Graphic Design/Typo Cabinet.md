@@ -2,5 +2,5 @@
 
 #GraphicDesign, #EditorialDesign, #ArtDirection, #VisualIdentity
 
-Related: [[Topics/Graphic Design]], [[Typography]], [[Topics/Art Direction]]
+Related: [[Graphic Design]], [[Typography]], [[Art Direction]]
 

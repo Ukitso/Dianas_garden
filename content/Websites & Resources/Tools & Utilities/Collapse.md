@@ -2,4 +2,4 @@
 
 #ImageMaking, #GenerativeDesign
 
-Related: [[Topics/Graphic Design]]
+Related: [[Graphic Design]]

@@ -2,4 +2,4 @@
 
 #3DDesign , #3D , #TextureDesign
 
-Related: [[Topics/Graphic Design]] [[3D Modelling]]
+Related: [[Graphic Design]] [[3D Modelling]]

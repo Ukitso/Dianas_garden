@@ -1,9 +1,9 @@
 
 Tutorials
-[[How To/Blender]]
+[[Blender]]
 
 Tools
- [[Tools & Utilities/3Dthis]]
- [[Tools & Utilities/Material Maker]]
+ [[3Dthis]]
+ [[Material Maker]]
   
  

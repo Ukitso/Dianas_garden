@@ -1,7 +1,7 @@
-- [[Studios/Graphic Design/Spassky-Fischer]]
-- [[People/Quim Marín]]
-- [[People/Ruby Brown]]
-- [[People/Toto Valverde]]
+- [[Spassky-Fischer]]
+- [[Quim Marín]]
+- [[Ruby Brown]]
+- [[Toto Valverde]]
 
 #GraphicDesign, #VisualResearch
 

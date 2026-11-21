@@ -2,4 +2,4 @@
 
 #3DDesign, #CreativeTechnology
 
-Related: [[Topics/Graphic Design]]
+Related: [[Graphic Design]]

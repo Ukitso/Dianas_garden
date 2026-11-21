@@ -2,4 +2,4 @@
 
 #Typography, #VisualResearch, #GraphicDesign
 
-Related: [[Typography]], [[Topics/Graphic Design]]
+Related: [[Typography]], [[Graphic Design]]

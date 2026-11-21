@@ -2,6 +2,6 @@
 
 #BrandIdentity, #CulturalIdentity, #PlaceBranding, #Wayfinding, #EnvironmentalDesign
 
-Related: [[Branding]], [[Topics/Graphic Design]]
+Related: [[Branding]], [[Graphic Design]]
 
 

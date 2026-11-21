@@ -2,4 +2,4 @@
 
 #Typography, #MotionDesign
 
-Related: [[Topics/Graphic Design]]
+Related: [[Graphic Design]]

@@ -2,5 +2,5 @@
 
 #Advertising, #CreativeCampaigns, #VisualResearch
 
-Related: [[Topics/Advertising]], [[Topics/Art Direction]]
+Related: [[Advertising]], [[Art Direction]]
 

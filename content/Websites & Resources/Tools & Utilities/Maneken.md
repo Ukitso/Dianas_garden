@@ -2,4 +2,4 @@
 
 #GraphicDesign, #Mockups, #DigitalDesign
 
-Related: [[Topics/Graphic Design]]
+Related: [[Graphic Design]]

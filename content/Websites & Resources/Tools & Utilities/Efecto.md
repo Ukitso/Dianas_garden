@@ -2,4 +2,4 @@
 
 #ImageMaking, #ExperimentalDesign
 
-Related: [[Topics/Graphic Design]]
+Related: [[Graphic Design]]

@@ -2,6 +2,6 @@
 
 #BrandStrategy, #BrandIdentity, #ArtDirection, #DigitalDesign
 
-Related: [[Branding]], [[Topics/Art Direction]]
+Related: [[Branding]], [[Art Direction]]
 
 

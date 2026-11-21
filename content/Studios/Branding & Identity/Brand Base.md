@@ -2,6 +2,7 @@
 
 #BrandIdentity, #GraphicDesign, #ArtDirection
 
-Related: [[Branding]], [[Topics/Graphic Design]], [[Topics/Art Direction]]
+Related: [[Branding]], [[Graphic Design]], [[Art Direction]]
+
 
 

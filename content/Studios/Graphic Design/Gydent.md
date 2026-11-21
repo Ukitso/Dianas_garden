@@ -2,7 +2,7 @@
 
 #GraphicDesign, #Typography, #ExperimentalDesign, #ArtDirection
 
-Related: [[Topics/Graphic Design]], [[Typography]], [[Topics/Art Direction]]
+Related: [[Graphic Design]] [[Typography]] [[Art Direction]]
 
 
 

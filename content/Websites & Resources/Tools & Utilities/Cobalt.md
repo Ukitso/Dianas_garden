@@ -2,4 +2,4 @@
 
 #DigitalMedia, #Video, #Audio
 
-Related: [[Topics/Graphic Design]]
+Related: [[Graphic Design]]

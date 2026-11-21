@@ -2,6 +2,6 @@
 
 #GraphicDesign, #ArtDirection, #VisualIdentity
 
-Related: [[Topics/Graphic Design]], [[Topics/Art Direction]]
+Related: [[Graphic Design]], [[Art Direction]]
 
 

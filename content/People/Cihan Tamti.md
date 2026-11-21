@@ -2,5 +2,5 @@
 
 #GraphicDesign, #Typography, #VisualIdentity
 
-Related: [[Topics/Graphic Design]], [[Typography]]
+Related: [[Graphic Design]], [[Typography]]
 

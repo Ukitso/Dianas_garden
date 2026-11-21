@@ -2,4 +2,4 @@
 
 #GenerativeDesign, #CreativeTechnology, #Typography
 
-Related: [[Topics/Graphic Design]]
+Related: [[Graphic Design]]
