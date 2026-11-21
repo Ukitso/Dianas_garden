@@ -1,3 +1,1 @@
-
-Digital Gardens
-- https://garden.carolynyoo.com/
+ https://garden.carolynyoo.com/
