@@ -1,3 +1,8 @@
+---
+publish: true
+created: 2026-11-21T15:15:29.427Z
+modified: 2026-11-21T16:37:01.403Z
+---
 
 Bauhaus was a German design school (1919–1933) that reshaped modern design by combining art, craft, and industry.
 
@@ -9,5 +14,5 @@ Bauhaus was a German design school (1919–1933) that reshaped modern design by 
 - **Design for real life** → practical, accessible, often made for mass production
 - **Learnable creativity** → creativity isn’t just talent, it’s something you can build through systems and experimentation
 
-**In one line:**  
+**In one line:**\
 Bauhaus turned creativity into a structured, functional process instead of something abstract or “natural talent.”
