@@ -1,0 +1,13 @@
+https://www.nasa.gov/
+https://archive.org/
+https://thenounproject.com/search/icons/?q=sacred+geometry
+https://www.creativenewbiesnetwork.com/
+https://bioart.niaid.nih.gov
+https://docs.google.com/spreadsheets/u/0/d/1bF6R0frxPa65mnNZfqI_H7cBCxag3Dtqp76TFApDOx4/htmlview?pli=1
+https://ourworldindata.org
+https://docs.google.com/presentation/d/1uMkNKwW993O-pYMj_eje2NzmtEm2-a5QIKa0Ml87iu0/edit
+https://creativelivesinprogress.com
+https://pixabay.com
+https://mobygratis.com
+https://www.beatoven.ai
+https://www.itsnicethat.com
