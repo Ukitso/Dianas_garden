@@ -1,4 +1,3 @@
-
 Bauhaus was a German design school (1919–1933) that reshaped modern design by combining art, craft, and industry.
 
 **Core ideas**
