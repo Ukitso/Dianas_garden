@@ -4,7 +4,7 @@ tags: []
 aesthetics: []
 date_added: "{{date}}"
 ---
-
+[[Template]]
 [Read article](URL)
 
 ## Summary

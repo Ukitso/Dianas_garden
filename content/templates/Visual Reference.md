@@ -3,7 +3,7 @@ type: image
 tags: []
 aesthetics: []
 ---
-
+[[Template]]
 ## Source
 
 [Original source](URL)

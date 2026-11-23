@@ -2,7 +2,7 @@
 type: concept
 tags: []
 ---
-
+[[Template]]
 ## Overview
 
 ## Key ideas

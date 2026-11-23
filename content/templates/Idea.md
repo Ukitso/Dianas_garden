@@ -2,7 +2,7 @@
 type: idea
 tags: []
 ---
-
+[[Template]]
 ## The idea
 
 ## Inspiration

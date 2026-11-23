@@ -4,7 +4,7 @@ tags: []
 aesthetics: []
 status: exploring
 ---
-
+[[Template]]
 ## Overview
 
 ## Concept

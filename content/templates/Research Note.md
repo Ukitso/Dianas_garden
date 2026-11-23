@@ -2,7 +2,7 @@
 type: research
 tags: []
 ---
-
+[[Template]]
 ## Research question
 
 ## Findings
