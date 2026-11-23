@@ -24,9 +24,11 @@
 
 ## Resources & inspiration
 
+- [[Antique Pattern Library]]
 - [[Another Graphic]]
 - [[Archive PDF]]
 - [[Are.na - Blaze Smith]]
+- [[Digital Bodleian]]
 - [[Design Inspiration Site]]
 - [[FUSE]]
 - [[Fonts in Use]]
@@ -34,6 +36,8 @@
 - [[The Brand Identity]]
 - [[The Index]]
 - [[The Noun Project]]
+- [[The Met Collection]]
+- [[V&A Collections]]
 - [[World Brand Design]]
 - [[Young Shits]]
 

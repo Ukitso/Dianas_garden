@@ -12,7 +12,8 @@ tags:
 - [[Old Maps Online]]
 - [[BaBaDum]]
 - [[Advocab]]
-
+- [[Clipart.studio Mag Collage Maker]]
+- [[PCjs]]
 ## Related
 
 - [[Tools]]
