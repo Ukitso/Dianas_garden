@@ -1,5 +1,5 @@
 ---
-type: tool
+type: website
 tags:
   - language-learning
   - game

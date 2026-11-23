@@ -21,6 +21,9 @@ tags:
 - [[The Noun Project]]
 - [[Pixabay]]
 - [[NASA]]
+- [[BioArt]]
+
+__
 ## Generative, 3D & web tools
 
 - [[Antlii]]
@@ -38,18 +41,24 @@ tags:
 - [[Material Design]]
 - [[UI Colors]]
 - [[Typelit]]
+
+__
 ## Mockup sites
 
-- 
+
+__
+
 ## Related resources
 
 - [[Artlist]]
 - [[PD Image Archive]]
 - [[The Designers Foundry]]
-
+-
+__
 ## Related
 
 - [[Graphic Design]]
 - [[Typography]]
 - [[UX UI]]
 - [[3D Modelling]]
+- [[Frameworks]]

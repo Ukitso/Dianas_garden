@@ -5,6 +5,6 @@ tags:
   - type-design
   - type-foundry
 ---
-[Metis Foundry](https://metis-foundry.com/catalogue/)
+ [Metis Foundry](https://metis-foundry.com/catalogue/)
 
 Related: [[Typography]]

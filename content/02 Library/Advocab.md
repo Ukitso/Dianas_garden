@@ -4,3 +4,6 @@ tags:
   - language-learning
 ---
 [Advocab](https://www.advocab.com)
+
+
+[[D&AD]]
