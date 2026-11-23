@@ -79,3 +79,39 @@ pre {
 .explorer .title-button {
   display: none !important;
 }
+
+/* Give the community Graph component the full canvas on its dedicated route. */
+body[data-slug="graph"] #quartz-root {
+  max-width: 100%;
+}
+
+body[data-slug="graph"] #quartz-body {
+  grid-template-columns: minmax(0, 1fr) !important;
+  grid-template-rows: auto auto auto !important;
+  grid-template-areas:
+    "grid-header"
+    "grid-center"
+    "grid-footer" !important;
+}
+
+body[data-slug="graph"] #quartz-body > .sidebar {
+  display: none;
+}
+
+body[data-slug="graph"] #quartz-body > .center {
+  grid-area: grid-center;
+  max-width: 100%;
+  min-width: 0;
+  width: 100%;
+  margin: 0;
+}
+
+body[data-slug="graph"] .graph > h3 {
+  display: none;
+}
+
+body[data-slug="graph"] .graph > .graph-outer {
+  height: calc(100vh - 190px);
+  min-height: 420px;
+  margin: 0.5rem 0 1rem;
+}
