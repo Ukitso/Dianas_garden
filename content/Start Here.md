@@ -7,6 +7,7 @@ This vault is a creative commonplace book: a place to save things you find, foll
 - **00 Inbox** — quick captures you haven’t sorted yet. Keep capturing friction low; move things out when you have a moment.
 - **01 Library** — things made or published by others: studios, people, websites, articles, tools, visual references, and other resources. All types live together.
 - **02 Notes** — your own ideas, observations, concepts, research, and curated collections. The existing subject collections live here as small maps into the vault.
+- **[[Tools|Hubs]]** — subject maps and directories that help you find related notes and resources.
 - **03 Projects** — your creative work, experiments, and works in progress.
 - **04 How To** — reusable instructions, workflows, and technical solutions.
 - **templates** — starting points for new notes. Obsidian uses this folder; it’s for templates, not everyday notes.

@@ -3,6 +3,7 @@ tags:
   - ux-design
   - interface-design
   - digital-design
+  - accessibility
 ---
 ## Interface & UX resources
 
