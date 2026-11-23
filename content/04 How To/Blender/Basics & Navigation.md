@@ -36,4 +36,4 @@ Getting started with Blender’s interface, viewport controls and essential shor
 
 ---
 
-[[!Blender Index|Back to Blender index]]
+[[☆Blender Tutorials|Back to Blender index]]

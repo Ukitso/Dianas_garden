@@ -61,4 +61,4 @@ Lighting setups, HDRI environments, render settings, optimization and compositin
 
 ---
 
-[[!Blender Index|Back to Blender index]]
+[[☆Blender Tutorials|Back to Blender index]]

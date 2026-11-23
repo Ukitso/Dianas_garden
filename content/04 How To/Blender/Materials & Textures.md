@@ -58,4 +58,4 @@ Shader editor fundamentals, procedural materials, UV mapping and stylized textur
 
 ---
 
-[[!Blender Index|Back to Blender index]]
+[[☆Blender Tutorials|Back to Blender index]]

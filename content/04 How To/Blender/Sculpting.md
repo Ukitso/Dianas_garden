@@ -28,4 +28,4 @@ Beginner sculpting guidance and character focused sculpting resources.
 
 ---
 
-[[!Blender Index|Back to Blender index]]
+[[☆Blender Tutorials|Back to Blender index]]

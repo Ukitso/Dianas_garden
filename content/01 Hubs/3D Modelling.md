@@ -1,6 +1,6 @@
 ## Tutorials
 
-- [[Tutorial]]
+- [[☆Blender Tutorials]]
 
 ## Tools & 3D resources
 

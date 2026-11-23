@@ -60,4 +60,4 @@ Geometry Nodes fundamentals, procedural environments, node effects, scattering a
 
 ---
 
-[[!Blender Index|Back to Blender index]]
+[[☆Blender Tutorials|Back to Blender index]]

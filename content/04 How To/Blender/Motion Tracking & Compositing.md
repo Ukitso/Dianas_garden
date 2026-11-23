@@ -30,4 +30,4 @@ Camera tracking and workflows connecting Blender with After Effects.
 
 ---
 
-[[!Blender Index|Back to Blender index]]
+[[☆Blender Tutorials|Back to Blender index]]

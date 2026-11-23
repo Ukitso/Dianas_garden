@@ -52,4 +52,4 @@ Cloth, fluid, smoke, fire, rigid body and soft body simulation tutorials.
 
 ---
 
-[[!Blender Index|Back to Blender index]]
+[[☆Blender Tutorials|Back to Blender index]]

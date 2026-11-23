@@ -70,4 +70,4 @@ Keyframes, character rigs, facial controls, walk cycles, graph editor work and c
 
 ---
 
-[[!Blender Index|Back to Blender index]]
+[[☆Blender Tutorials|Back to Blender index]]

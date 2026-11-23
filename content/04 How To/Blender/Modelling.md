@@ -48,4 +48,4 @@ Tutorials for core modelling techniques, hard surface work, low poly style and c
 
 ---
 
-[[!Blender Index|Back to Blender index]]
+[[☆Blender Tutorials|Back to Blender index]]
