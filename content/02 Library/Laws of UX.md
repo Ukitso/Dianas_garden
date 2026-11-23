@@ -1,5 +1,5 @@
 ---
-type: website
+type: archive
 tags:
   - ux-design
   - research

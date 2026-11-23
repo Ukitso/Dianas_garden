@@ -4,6 +4,7 @@ tags:
   - creative-strategy
   - brand-strategy
   - project/helio
+  - design-education
 ---
 A simple structure for turning research and strategic thinking into a clear statement of the problem, what needs to change and why it matters.
 

@@ -11,6 +11,7 @@ tags:
   - visual-storytelling
   - visual-communication
   - inclusive-design
+  - design-education
 ---
 
 
@@ -18,7 +19,8 @@ tags:
 - [[Hero, Conflict, Goal & Benefits Framework]]
 - [[4C's Framework]]
 - [[Brand Problem Statement Framework]]
-
+- [[Associative Thinking (Apple exercise)]]
+- [[Six Thinking Hats]]
 
 ## Related
 

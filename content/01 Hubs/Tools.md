@@ -3,6 +3,10 @@ tags:
   - graphic-design
   - digital-design
   - creative-technology
+  - free-resources
+  - paid-resources
+  - 3d
+  - design-education
 ---
 
 ## Design, image & colour tools
