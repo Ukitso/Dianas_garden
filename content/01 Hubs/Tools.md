@@ -15,6 +15,7 @@ tags:
 - [[Coolors]]
 - [[Maneken]]
 - [[Bitmap]]
+- [[Colir]]
 - [[PhotoGradient]]
 - [[Efecto]]
 - [[Grid Paper]]
@@ -36,6 +37,7 @@ __
 - [[Constraint Systems]]
 - [[Collapse]]
 - [[Material Maker]]
+- [[Shapes Tools]]
 - [[Space Type Generator]]
 - [[CodePen]]
 
@@ -57,6 +59,7 @@ __
 - [[Artlist]]
 - [[PD Image Archive]]
 - [[The Designers Foundry]]
+- [[Delphi Tools]]
 -
 __
 ## Related
@@ -66,3 +69,4 @@ __
 - [[UX UI]]
 - [[3D Modelling]]
 - [[Frameworks]]
+- [[01 Hubs/Music|Music]]
