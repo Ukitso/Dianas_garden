@@ -13,3 +13,4 @@ A bit of everything, really. Make yourself at home.
 
 **Find me (and oko) here** 
 [Website](https://dianajablonskaite.xyz/)  • [Instagram](https://www.instagram.com/_ukitso_/) • [Linkedin](https://www.linkedin.com/in/diana-jablonskaite/) 
+![[obsidian oko.png|640]]
